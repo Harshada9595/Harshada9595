@@ -1,4 +1,4 @@
-"# Harshada9595" 
+
 <h1 align="center">🌻 Hello, I'm Harshada! 👋</h1>
 <p align="center">
   💻 Full Stack Developer & Problem Solver | Java • React • Node.js <br>
